@@ -21,3 +21,8 @@ body {
     justify-content: center;
     width: 960px;
 }
+
+.screen {
+    display: flex;
+    flex-direction: row;
+}
