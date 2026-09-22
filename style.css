@@ -1,0 +1,23 @@
+body {
+    background-color: #d1cec7;
+}
+
+.numbers {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    padding: 48px;
+    align-items: center;
+    justify-content: center;
+    width: 960px;
+}
+
+.signs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    padding: 48px;
+    align-items: center;
+    justify-content: center;
+    width: 960px;
+}
